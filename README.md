@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilef1234
 - 👀 I’m interested in everything related to the computer field
-- 🌱 I’m currently learning about javascript ,python and langage c
+- 🌱 I’m currently learning about development web and IA
 - 💞️ I’m looking to collaborate on open source project based on computer science
 - 📫 How to reach me hachichailef182@gmail.com
 
